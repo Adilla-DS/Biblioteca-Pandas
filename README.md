@@ -14,4 +14,4 @@ Com base nesse contexto e nas premissas de negócio estabelecidas, podemos avali
 5. Média de idade dos clientes por bandeira: Saber a faixa etária dos clientes por bandeira pode ajudar a identificar perfis de consimidores e ajustar as vendas para  atender melhor cada público.
 
 
-# Versionar notebooks Pandas no GitHub e documentá-los de forma adequada é uma prática fundamental para qualquer analista ou cientista de dados. Isso facilita o trabalho em equipe, preserva diferentes versões do seu código, cria um portfólio de projetos para demonstrar habilidades e promove o compartilhamento e reutilização de códigos.
+Versionar notebooks Pandas no GitHub e documentá-los de forma adequada é uma prática fundamental para qualquer analista ou cientista de dados. Isso facilita o trabalho em equipe, preserva diferentes versões do seu código, cria um portfólio de projetos para demonstrar habilidades e promove o compartilhamento e reutilização de códigos.
